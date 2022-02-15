@@ -1,5 +1,7 @@
 *A quick description of how my code works:*
  
+ 
+ 
 The code is relatively well commented so feel free to poke around it...
  
 Essentially my code just translates what I was doing when I was making the adjacency matrix and taking the rank of it myself.
